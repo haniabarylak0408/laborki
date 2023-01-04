@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1671130464 source:c:\users\hania\desktop\kolos podstawy informatyki\laborka5\main.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+	"osoba.hpp"
+
+1671481086 source:c:\users\hania\desktop\kolos podstawy informatyki\laborka5\osoba.cpp
+	<iostream>
+	"osoba.hpp"
+
+1671129107 c:\users\hania\desktop\kolos podstawy informatyki\laborka5\osoba.hpp
+	<iostream>
+
